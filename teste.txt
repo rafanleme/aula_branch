@@ -3,3 +3,9 @@ hello world!
 function cadastroUsuario (){
 	return novoUsuario;
 }
+
+function cadastroProduto(produto){
+	produto.add(produto)
+
+	return "sucesso";
+}
