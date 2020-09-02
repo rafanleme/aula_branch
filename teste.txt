@@ -1,5 +1,5 @@
 hello world!
 
 function cadastroUsuario (){
-
+	return novoUsuario;
 }
