@@ -7,5 +7,7 @@ function cadastroUsuario (){
 function cadastroProduto(produto){
 	produto.add(produto)
 
+	//comenario
+
 	return "sucesso";
 }
